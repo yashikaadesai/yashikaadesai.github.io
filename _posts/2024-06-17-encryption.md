@@ -1,6 +1,6 @@
 ---
 title: Encrypt-Decrypt
-tags: TeXt
+tags: 
 ---
 
 If you see this page, that means you have setup your site. enjoy! :ghost: :ghost: :ghost:
