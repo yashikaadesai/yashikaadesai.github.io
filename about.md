@@ -39,10 +39,7 @@ On this website, you will also find my résumé, detailing my academic achieveme
 
 - Languages : Python,C++,Java,HTML,SQL
 - Libraries: Pandas,Tkinter
-
-## Technical projects
-
-- Java
+- Foreign languages : English,German,Telugu,Hindi and Kannada
 - HTML
 - Internationalization
 - Search
