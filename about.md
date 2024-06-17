@@ -34,17 +34,14 @@ When I’m not coding, you can find me hiking and capturing beauty of nature, es
 
 On this website, you will also find my résumé, detailing my academic achievements and technical skills. I am enthusiastic about contributing to innovative projects and eager to learn and grow in the software engineering field
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
 
-## Features
+## Technical Skills & Relevant Coursework
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
+Python
+- C++
+- Java
+- HTML
+- SQL
 - Search
 - Table of contents
 - Authors
