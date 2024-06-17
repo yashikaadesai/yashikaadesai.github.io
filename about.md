@@ -28,6 +28,8 @@ key: page-about
 
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
+## Yashika Desai
+
 Welcome to my portfolio! My name is Yashika Desai, and I am a computer science major at Michigan State University with a keen interest in innovation and problem-solving. I'm actively seeking a summer internship to apply my programming skills and contribute to innovative projects while gaining valuable industry experience.
 
 When I’m not coding, you can find me hiking and capturing beauty of nature, especially sunsets. Below,I’ve shared some of my favorite sunset photographs for you to enjoy.
@@ -37,8 +39,9 @@ On this website, you will also find my résumé, detailing my academic achieveme
 
 
 ## Education
-- Michigan State University - East Lansing,MI                                                 May 2026
+- Michigan State University - East Lansing,MI                                                 (May 2026)
 - Bachelor of Science in Computer Science Engineering
+- Awards/Honors: Dean’s List, Presidential Scholar Scholarship, International Tuition Grant. 
 
 
 ## Skills 
