@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       About me
+  en      : &EN       Resume
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -32,19 +32,9 @@ key: page-about
 
 
 
-## Yashika Desai
-
-Welcome to my portfolio! My name is Yashika Desai, and I am a computer science major at Michigan State University with a keen interest in innovation and problem-solving. I'm actively seeking a summer internship to apply my programming skills and contribute to innovative projects while gaining valuable industry experience.
-
-When I’m not coding, you can find me hiking and capturing beauty of nature, especially sunsets. Below,I’ve shared some of my favorite sunset photographs I have captured,enjoy.
-
-On this website, you will also find my résumé, detailing my academic achievements and technical skills. I am enthusiastic about contributing to innovative projects and eager to learn and grow in the software engineering field.
-
-Thank you for checking out my portfolio! I hope you enjoyed exploring it. Please feel free to reach out if you have any queries or opportunities.
-
 
 ## Education
-- Michigan State University - East Lansing,MI                                                 (May 2026)
+- Michigan State University - East Lansing, MI                                                 (May 2026)
 - Bachelor of Science in Computer Science Engineering
 - Awards/Honors: Dean’s List, Presidential Scholar Scholarship, International Tuition Grant. 
 
