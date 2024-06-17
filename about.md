@@ -35,11 +35,18 @@ When I’m not coding, you can find me hiking and capturing beauty of nature, es
 On this website, you will also find my résumé, detailing my academic achievements and technical skills. I am enthusiastic about contributing to innovative projects and eager to learn and grow in the software engineering field
 
 
+
+## Education
+- Michigan State University - East Lansing,MI                                                 May 2026
+- Bachelor of Science in Computer Science Engineering
+
+
 ## Skills 
 
 - Languages : Python,C++,Java,HTML,SQL
 - Libraries: Pandas,Tkinter
 - Foreign languages : English,German,Telugu,Hindi and Kannada
+
 - HTML
 - Internationalization
 - Search
