@@ -37,9 +37,9 @@ On this website, you will also find my résumé, detailing my academic achieveme
 
 ## Technical Projects
 
-Languages : Python,C++,Java,HTML,SQL
-Libraries: Pandas,Tkinter
-Foreign languages: English,German,Telugu,Hindi and Kannada
+-Languages : Python,C++,Java,HTML,SQL
+-Libraries: Pandas,Tkinter
+-Foreign languages: English,German,Telugu,Hindi and Kannada
 
 Nine -Men's Morris game : 
 
