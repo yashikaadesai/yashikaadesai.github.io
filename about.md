@@ -60,20 +60,6 @@ Thank you for checking out my portfolio! I hope you enjoyed exploring it. Please
 
   - A social sorority for Women in engineering and engineering tech. We empower and support women     pursuing careers in engineering or related majors.Represent sophomore class for social sorority of women in engineering and engineering technology related majors when meeting weekly with standards board, discuss and vote on bylaws, meet with sisters with concerns and status changes.
 
-- Women in Computing
-       - Empowering women in IT, the club aims to foster diversity and provide opportunities for growth and mentorship in the IT field.
+- Women in Computing: 
+  - Empowering women in IT, the club aims to foster diversity and provide opportunities for growth and mentorship in the IT field.
 
-
-
-
-| `chocolate` | 
-|  --- |
-| ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) |
-
-### Highlight Theme
-
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
-
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
