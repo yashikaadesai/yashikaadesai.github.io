@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       Resume
+  en      : &EN       About me
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -27,7 +27,7 @@ key: page-about
 ---
 
 <div style="text-align:center;">
-    <img src="assets/IMG_8852.jpg" alt="Yashika" width="230" height="330">
+    <img src="assets/IMG_8852.jpg" alt="Yashika" width="230" height="300">
 </div>
 
 
