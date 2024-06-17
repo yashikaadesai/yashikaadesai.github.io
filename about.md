@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-<img src="assests/IMG_8852.png" alt="Yashika"
+<img src="assests/IMG_8852.jpg" alt="Yashika"
 width="414" height="736">
 
 
