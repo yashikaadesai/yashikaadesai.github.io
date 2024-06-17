@@ -27,7 +27,7 @@ key: page-about
 ---
 
 <div style="text-align:center;">
-    <img src="assets/IMG_8852.jpg" alt="Yashika" width="393" height="393">
+    <img src="assets/IMG_8852.jpg" alt="Yashika" width="250" height="250">
 </div>
 
 
