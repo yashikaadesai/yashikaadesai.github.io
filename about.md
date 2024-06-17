@@ -35,15 +35,22 @@ When I’m not coding, you can find me hiking and capturing beauty of nature, es
 On this website, you will also find my résumé, detailing my academic achievements and technical skills. I am enthusiastic about contributing to innovative projects and eager to learn and grow in the software engineering field
 
 
-## Technical Projects
+## Skills 
 
--Languages : Python,C++,Java,HTML,SQL
--Libraries: Pandas,Tkinter
--Foreign languages: English,German,Telugu,Hindi and Kannada
+- Languages : Python,C++,Java,HTML,SQL
+- Libraries: Pandas,Tkinter
 
-Nine -Men's Morris game : 
+## Technical projects
 
-- Nine-Men's Morris game : ([Nine-Men's](https://github.com/yashikaadesai/Nine-Mens-Morris-Board-Game))
+- Java
+- HTML
+- Internationalization
+- Search
+- Table of contents
+- Authors
+- Additional styles (alert, tag, image, icon, button, grid, etc)
+- Extensions (audios, videos, slides, demos)
+- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
 - Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
 - Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
 - Pageview ([LeanCloud](https://leancloud.cn/))
