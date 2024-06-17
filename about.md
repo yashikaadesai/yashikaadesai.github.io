@@ -27,8 +27,9 @@ key: page-about
 ---
 
 <div style="text-align:center;">
-    <img src="assets/IMG_8852.jpg" alt="Yashika" width="390" height="487.33">
+    <img src="assets/resized_image.png" alt="Yashika" width="393" height="743">
 </div>
+
 
 
 ## Yashika Desai
