@@ -35,15 +35,14 @@ When I’m not coding, you can find me hiking and capturing beauty of nature, es
 On this website, you will also find my résumé, detailing my academic achievements and technical skills. I am enthusiastic about contributing to innovative projects and eager to learn and grow in the software engineering field
 
 
-## Technical Skills & Relevant Coursework
+## Technical Skills 
 
-Python
-- C++
-- Java
-- HTML
-- SQL
-- Search
-- Table of contents
+Languages : Python,C++,Java,HTML,SQL
+Libraries: Pandas,Tkinter
+Foreign languages: English,German,Telugu,Hindi and Kannada
+
+## projects
+
 - Authors
 - Additional styles (alert, tag, image, icon, button, grid, etc)
 - Extensions (audios, videos, slides, demos)
