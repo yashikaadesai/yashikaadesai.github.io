@@ -2,7 +2,7 @@
 ## => English
 ########################
 en: &EN
-  SUBSCRIBE               : "Subscribe"
+  
   READMORE                : "Read more"
   SEARCH                  : "Search"
   CANCEL                  : "Cancel"
