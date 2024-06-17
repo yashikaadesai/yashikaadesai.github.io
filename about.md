@@ -36,7 +36,7 @@ When I’m not coding, you can find me hiking and capturing beauty of nature, es
 
 On this website, you will also find my résumé, detailing my academic achievements and technical skills. I am enthusiastic about contributing to innovative projects and eager to learn and grow in the software engineering field
 
-Thank you for visiting! I hope you enjoyed exploring my portfolio. Feel free to reach out
+Thank you for checking out my portfolio! I hope you enjoyed exploring it. Please feel free to reach out if you have any queries or opportunities.
 
 
 ## Education
@@ -58,20 +58,17 @@ Thank you for visiting! I hope you enjoyed exploring my portfolio. Feel free to 
 
 - Phi sigma Rho - Alpha Delta Chapter (Sophomore Standards Board)
 
-      - A social sorority for Women in engineering and engineering tech. We empower and support women     pursuing careers in engineering or related majors.Represent sophomore class for social sorority of women in engineering and engineering technology related majors when meeting weekly with standards board, discuss and vote on bylaws, meet with sisters with concerns and status changes.
+  - A social sorority for Women in engineering and engineering tech. We empower and support women     pursuing careers in engineering or related majors.Represent sophomore class for social sorority of women in engineering and engineering technology related majors when meeting weekly with standards board, discuss and vote on bylaws, meet with sisters with concerns and status changes.
 
 - Women in Computing
        - Empowering women in IT, the club aims to foster diversity and provide opportunities for growth and mentorship in the IT field.
 
-TeXt has 6 built-in skins, you can also set up your own skin.
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+
+| `chocolate` | 
+|  --- |
+| ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) |
 
 ### Highlight Theme
 
