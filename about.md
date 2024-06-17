@@ -26,7 +26,9 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+<img src="assests/IMG_8852.jpg" alt="Yashika"
+width="414" height="736">
+
 
 ## Yashika Desai
 
