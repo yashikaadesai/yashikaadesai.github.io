@@ -26,8 +26,9 @@ titles:
 key: page-about
 ---
 
-<img src="assests/IMG_8852.jpg" alt="Yashika"
-width="414" height="736">
+<div style="text-align:center;">
+    <img src="assets/IMG_8852.jpg" alt="Yashika" width="390" height="487.33">
+</div>
 
 
 ## Yashika Desai
