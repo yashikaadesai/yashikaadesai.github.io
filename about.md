@@ -34,7 +34,7 @@ Welcome to my portfolio! My name is Yashika Desai, and I am a computer science m
 
 When I’m not coding, you can find me hiking and capturing beauty of nature, especially sunsets. Below,I’ve shared some of my favorite sunset photographs I have captured,enjoy.
 
-On this website, you will also find my résumé, detailing my academic achievements and technical skills. I am enthusiastic about contributing to innovative projects and eager to learn and grow in the software engineering field
+On this website, you will also find my résumé, detailing my academic achievements and technical skills. I am enthusiastic about contributing to innovative projects and eager to learn and grow in the software engineering field.
 
 Thank you for checking out my portfolio! I hope you enjoyed exploring it. Please feel free to reach out if you have any queries or opportunities.
 
