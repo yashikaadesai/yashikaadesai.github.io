@@ -48,11 +48,9 @@ Thank you for checking out my portfolio! I hope you enjoyed exploring it. Please
 ## Skills 
 
 - Languages : Python,C++,Java,HTML,SQL
-- Libraries: Pandas,Tkinter
+- Libraries : Pandas,Tkinter
 - Foreign languages : English,German,Telugu,Hindi and Kannada
 
-
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/)) 
 
 ## Involvement
 
