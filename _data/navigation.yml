@@ -1,7 +1,7 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       projects
+      en      : &EN       Projects
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
