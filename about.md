@@ -32,10 +32,11 @@ key: page-about
 
 Welcome to my portfolio! My name is Yashika Desai, and I am a computer science major at Michigan State University with a keen interest in innovation and problem-solving. I'm actively seeking a summer internship to apply my programming skills and contribute to innovative projects while gaining valuable industry experience.
 
-When I’m not coding, you can find me hiking and capturing beauty of nature, especially sunsets. Below,I’ve shared some of my favorite sunset photographs for you to enjoy.
+When I’m not coding, you can find me hiking and capturing beauty of nature, especially sunsets. Below,I’ve shared some of my favorite sunset photographs I have captured,enjoy.
 
 On this website, you will also find my résumé, detailing my academic achievements and technical skills. I am enthusiastic about contributing to innovative projects and eager to learn and grow in the software engineering field
 
+Thank you for visiting! I hope you enjoyed exploring my portfolio. Feel free to reach out
 
 
 ## Education
@@ -50,21 +51,17 @@ On this website, you will also find my résumé, detailing my academic achieveme
 - Libraries: Pandas,Tkinter
 - Foreign languages : English,German,Telugu,Hindi and Kannada
 
-- HTML
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
 
-## Skins
+- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/)) 
+
+## Involvement
+
+- Phi sigma Rho - Alpha Delta Chapter (Sophomore Standards Board)
+
+      - A social sorority for Women in engineering and engineering tech. We empower and support women     pursuing careers in engineering or related majors.Represent sophomore class for social sorority of women in engineering and engineering technology related majors when meeting weekly with standards board, discuss and vote on bylaws, meet with sisters with concerns and status changes.
+
+- Women in Computing
+       - Empowering women in IT, the club aims to foster diversity and provide opportunities for growth and mentorship in the IT field.
 
 TeXt has 6 built-in skins, you can also set up your own skin.
 
